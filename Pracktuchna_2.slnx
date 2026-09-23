@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Pracktuchna_2/Pracktuchna_2.vcxproj" />
+  <Project Path="Pracktuchna_2/Pracktuchna_2.vcxproj" Id="236aa702-935a-4235-979f-b87c2dfc0d31" />
 </Solution>

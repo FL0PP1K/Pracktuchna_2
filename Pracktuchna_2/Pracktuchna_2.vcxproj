@@ -139,7 +139,19 @@
     </Manifest>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="AirConditioner.cpp" />
+    <ClCompile Include="IObserver.cpp" />
+    <ClCompile Include="ISubject.cpp" />
     <ClCompile Include="Pracktuchna_2.cpp" />
+    <ClCompile Include="SensorHub.cpp" />
+    <ClCompile Include="SmartDisplay.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="AirConditioner.h" />
+    <ClInclude Include="IObserver.h" />
+    <ClInclude Include="ISubject.h" />
+    <ClInclude Include="SensorHub.h" />
+    <ClInclude Include="SmartDisplay.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
